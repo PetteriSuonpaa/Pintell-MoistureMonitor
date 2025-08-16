@@ -21,7 +21,7 @@ Pintell combines smart electronics, embedded programming, and cloud connectivity
 
 ## Hardware Overview
 **Petteri Suonpää – Electronics Engineering**  
-Designed and developed the electronic system for Pintell. Key highlights:
+This was my role and I Designed and developed the electronic system for Pintell. Key highlights:
 
 - **Moisture Sensor:** High-accuracy sensor integrated at the bottom of the garment for precise readings.  
 - **PCB Design:** Compact layout optimized for low power consumption and durability.  
