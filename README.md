@@ -1,10 +1,11 @@
 # Pintell – Smart Laundry Moisture Monitor
 
-![Pintell Final Product](images/final_product.jpg) <!-- Replace with your actual image path -->
+<p align="left">
+  <img src="pintell_photo.jpg" alt="Pintell Final Product" width="300"/>
+</p>
 
-## Purpose
-Pintell is designed to monitor your laundry's moisture levels in real-time, letting you know exactly when your clothes are dry. This saves time and energy compared to relying on dryers, weather, or manually checking garments.
-
+**Course:** ELEC-C9822 – Design Thinking and Advanced Prototyping (10 credits)  
+**Purpose:** Pintell is designed to monitor your laundry's moisture levels in real-time, letting you know exactly when your clothes are dry. It saves time and energy compared to using dryers, relying on the weather, or checking manually.
 **Note:** Unlike a traditional clothespin, Pintell’s primary focus is **accurate moisture monitoring**, not holding clothes in place. For best results, clip it to the *bottom* of the garment: moisture naturally moves downward as clothes dry, and the bottom retains moisture the longest. The **core functionality of Pintell is precise real-time moisture data**, even though the form is inspired by the familiar clothespin.
 
 ---
@@ -30,8 +31,7 @@ This was my role and I Designed and developed the electronic system for Pintell.
 
 ### Hardware Photos
 1. **PCB & Electronics Assembly**  
-![PCB Assembly](images/pcb_assembly.jpg)
-
+[📄 Pintell Design Report (PDF)](Kicad_layout.pdf)
 2. **Sensor Integration Close-up**  
 ![Sensor Close-up](images/sensor_closeup.jpg)
 
