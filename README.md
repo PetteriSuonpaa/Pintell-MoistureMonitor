@@ -20,7 +20,7 @@ Pintell combines smart electronics, embedded programming, and cloud connectivity
 
 ---
 
-## Hardware Overview
+## Hardware Overview (my role)
 **Petteri Suonpää – Electronics Engineering**  
 This was my role and I Designed and developed the electronic system for Pintell. Key highlights:
 
