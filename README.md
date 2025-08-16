@@ -20,20 +20,22 @@ Pintell combines smart electronics, embedded programming, and cloud connectivity
 
 ---
 
-## Hardware Overview (my role)
+## Hardware Overview (My Role)
 **Petteri Suonpää – Electronics Engineering**  
-This was my role and I Designed and developed the electronic system for Pintell. Key highlights:
+As part of ELEC-C9822 - Design Thinking and Advanced Prototyping (10 credits), I was responsible for designing and developing the electronic system for Pintell. Key highlights of my work include:
 
-- **Moisture Sensor:** High-accuracy sensor integrated at the bottom of the garment for precise readings.  
-- **PCB Design:** Compact layout optimized for low power consumption and durability.  
-- **Power Management:** Efficient battery system enabling extended use between charges.  
-- **Connectivity:** Microcontroller handles sensor data and transmits it to the mobile app.  
+- **Moisture Sensor:** Researched, selected, and integrated a high-accuracy sensor at the bottom of the garment for precise real-time readings.  
+- **PCB Design & Prototyping:** Designed custom 1-2 layer PCBs in KiCad. I milled a prototype PCB in the lab for testing, refined the design based on results, and ordered the final version from JLCPCB.  
+- **Power Management:** Developed an efficient battery system to ensure extended usage between charges.  
+- **Connectivity:** Programmed the microcontroller to handle sensor data and transmit it to the mobile app.  
+- **Testing & Validation:** Verified sensor functionality, PCB performance, and overall system reliability, iteratively refining the design as needed.  
 
 ### Hardware Photos
 1. **PCB & Electronics Assembly**  
-[📄 Pintell Design Report (PDF)](Kicad_layout.pdf)
+[📄 Pintell Design Report (PDF)](Kicad_layout.pdf)  
+
 2. **Sensor Integration Close-up**  
-![Sensor Close-up](images/sensor_closeup.jpg)
+![Sensor Close-up](images/sensor_closeup.jpg)  
 
 3. **Final Product in Use**  
 ![Pintell on Garment](images/in_use.jpg)
