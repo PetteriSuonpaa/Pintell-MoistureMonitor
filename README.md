@@ -44,9 +44,9 @@ As part of ELEC-C9822 - Design Thinking and Advanced Prototyping (10 credits), I
    *Freshly milled PCB used for testing sensor connections and layout.*  
 
 5. **Final Product in Use**  
-   <img src="final_PCBpic.png" alt="Final PCB" width="400"/>
+   <img src="final_PCBpic.png" alt="Final PCB" width="400" height="500" />
    
-   *Completed device running in real conditions.*  
+   *Ordered PCB from JLCPCB.*  
 ---
 
 ## Team Members & Roles
