@@ -2,6 +2,7 @@
 
 <p align="left">
   <img src="pintell_photo.jpg" alt="Pintell Final Product" width="300"/>
+  <img src="pintell_website.jpg" alt="Pintell Final Product" width="300" height="535"/>
 </p>
 
 **Course:** ELEC-C9822 – Design Thinking and Advanced Prototyping (10 credits)  
