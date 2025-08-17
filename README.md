@@ -33,13 +33,20 @@ As part of ELEC-C9822 - Design Thinking and Advanced Prototyping (10 credits), I
 
 ### Hardware Photos
 1. **PCB & Electronics Assembly**  
-[📄 Pintell Design Report (PDF)](Kicad_layout.pdf)  
+   [📄 Pintell Design Report (PDF)](Kicad_layout.pdf)  
+   <img src="kicadpic_3d.png" alt="3D PCB Layout" width="400"/>
+   
+   *3D-rendered PCB design created in KiCad.*  
 
-2. **Sensor Integration Close-up**  
-![Sensor Close-up](images/sensor_closeup.jpg)  
+3. **Milled PCB for Prototyping**  
+   <img src="milled_PCB.jpg" alt="Milled PCB" width="400"/>
+   
+   *Freshly milled PCB used for testing sensor connections and layout.*  
 
-3. **Final Product in Use**  
-![Pintell on Garment](images/in_use.jpg)
+5. **Final Product in Use**  
+   <img src="final_PCBpic.png" alt="Final PCB" width="400"/>
+   
+   *Completed device running in real conditions.*  
 ---
 
 ## Team Members & Roles
